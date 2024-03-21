@@ -1,0 +1,9 @@
+$primary-color: blue;
+$spacing: 16px;
+body {
+background:white;
+color: $primary-color;
+}
+header {
+padding: $spacing;
+}
